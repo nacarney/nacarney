@@ -1,4 +1,4 @@
-Hi, I’m @nacarney!
+Hi, I’m @nacarney
 
 I’m a final year Management Science and Information Systems Studies student at Trinity College Dublin. I'm interested in Web Development, 
 Data Analytics and Database Management. I’m currently learning Javascript and React.js. 
