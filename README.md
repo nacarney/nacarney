@@ -1,7 +1,6 @@
 Hi, I’m @nacarney
 
-I’m a final year Management Science and Information Systems Studies student at Trinity College Dublin. I'm interested in Web Development, 
-Data Analytics and Database Management. I’m currently learning Javascript and React.js. 
+I am a Product Support Specialist at Stripe, and I graduated from Management Science and Information Studies in Trinity College Dublin in 2022. I'm interested in Web Development, Data Analytics and Database Management. I’m currently learning Javascript and React.js. 
 
 📫 How to reach me: 
 Email: nacarney@tcd.ie
